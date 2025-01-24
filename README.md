@@ -1,4 +1,3 @@
-TEST
 # ![HAProxy](https://github.com/haproxytech/kubernetes-ingress/raw/master/assets/images/haproxy-weblogo-210x49.png "HAProxy")
 
 ## HAProxy Helm Chart
